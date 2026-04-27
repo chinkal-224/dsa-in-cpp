@@ -2,7 +2,6 @@
 #include<cstring>
 using namespace std;
 bool isPermutation(char input1[], char input2[]) {
-    // Write your code here
     int len1=strlen(input1);
     int len2=strlen(input2);
     if(len1!=len2){
