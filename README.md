@@ -3,15 +3,15 @@ A comprehensive collection of Data Structures and Algorithms (DSA) problems solv
 This repository is created to improve problem-solving skills, strengthen coding fundamentals, and prepare for coding interviews & competitive programming.
 
 📌 Topics Covered
-Arrays
-Strings
-Trees & Binary Trees
-Binary Search Tree (BST)
-Recursion & Backtracking
-Searching & Sorting
-Sliding Window
-Two Pointer Technique
-Dynamic Programming
+Arrays ,
+Strings ,
+Trees & Binary Trees ,
+Binary Search Tree (BST) ,
+Recursion & Backtracking ,
+Searching & Sorting ,
+Sliding Window ,
+Two Pointer Technique ,
+Dynamic Programming .
 
 💻 Language Used
 C++
